@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.15">
   <diagram name="ページ1" id="boBP_XGhJ_DgbDZFJ40Q">
-    <mxGraphModel dx="2262" dy="968" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2110" dy="948" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
             <mxPoint x="681" y="183" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uoVccDKrm7SZrwwqsDwe-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="AHDUkJMj8YiW-9V-rh8S-65" source="AHDUkJMj8YiW-9V-rh8S-1">
+        <mxCell id="uoVccDKrm7SZrwwqsDwe-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="AHDUkJMj8YiW-9V-rh8S-65" source="AHDUkJMj8YiW-9V-rh8S-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="443" y="262" as="sourcePoint" />
             <mxPoint x="493" y="212" as="targetPoint" />
@@ -94,7 +94,7 @@
         <mxCell id="AHDUkJMj8YiW-9V-rh8S-10" value="マネタリスト" style="rounded=0;whiteSpace=wrap;html=1;" parent="AHDUkJMj8YiW-9V-rh8S-14" vertex="1">
           <mxGeometry x="254" y="126" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AHDUkJMj8YiW-9V-rh8S-11" value="オールド・ケインズ派" style="rounded=0;whiteSpace=wrap;html=1;" parent="AHDUkJMj8YiW-9V-rh8S-14" vertex="1">
+        <mxCell id="AHDUkJMj8YiW-9V-rh8S-11" value="新古典派総合" style="rounded=0;whiteSpace=wrap;html=1;" parent="AHDUkJMj8YiW-9V-rh8S-14" vertex="1">
           <mxGeometry x="93" y="186" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AHDUkJMj8YiW-9V-rh8S-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.132;exitY=1.059;exitDx=0;exitDy=0;exitPerimeter=0;" parent="AHDUkJMj8YiW-9V-rh8S-14" source="AHDUkJMj8YiW-9V-rh8S-6" target="AHDUkJMj8YiW-9V-rh8S-16" edge="1">
